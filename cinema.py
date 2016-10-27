@@ -1,3 +1,4 @@
+
 """
 Problem:
 
@@ -45,5 +46,16 @@ def run_tests():
 
 # Edit this code
 def price(day, age):
+    
+    if day is Saturday:
+        print ("£6.50")
+        
+    elif age is 65 =<:
+        print ("£4.00")
+        
+    elif age is 10 =>:
+        print ("£3.00")
+              
+               
 
 
