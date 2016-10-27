@@ -1,3 +1,4 @@
+
 """
 Problem:
 
@@ -40,4 +41,16 @@ def run_tests():
 
 # Edit this code
 def battle(name1, power1, name2, power2):
+    if name1 is mewtwo power1 + 100
+    
+    elif name2 is mewtwo power2 + 100
+    
+    elif power1 > power2:
+        print (name1)
+        
+    elif power2 > power1:
+        print (name2)
+        
+    else:
+        print ("Draw")
 
