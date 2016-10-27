@@ -50,10 +50,10 @@ def price(day, age):
     if day is Saturday:
         print ("£6.50")
         
-    elif age is 65 =<:
+    elif age =< 65:
         print ("£4.00")
         
-    elif age is 10 =>:
+    elif age => 10:
         print ("£3.00")
               
                
